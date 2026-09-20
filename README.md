@@ -35,9 +35,9 @@ Hospital-Performance-PowerBI/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── docs/
-    ├── dashboard-pages.md
-    └── assets/
+├── dashboard-pages.md
+└── assets/
+        ├── README.md
         └── dashboard-backgrounds/
 ```
 
